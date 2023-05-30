@@ -18,4 +18,23 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
+  margin: 4rem auto;
+}
+
+h2 {
+  font-size: 2.3rem;
+  color: #F4459A;
+}
+
+.menu {
+  margin: 1.5rem 0;
+}
+
+.menu a {
+  font-size: 1.1rem;
+  text-decoration: none;
+  margin: 0 1.5rem;
+  background-color: #753CF8;
+  color: #FFF;
+  padding: 8px 22px;
 }
