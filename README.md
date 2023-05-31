@@ -10,3 +10,4 @@ This is a filterable gallery where users can click on buttons to filter and disp
 - Default "All" Filter
 
 ## Tools
+JavaScript, CSS, HTML
