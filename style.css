@@ -19,6 +19,7 @@ body {
   align-items: center;
   text-align: center;
   margin: 4rem auto;
+  width: 90%;
 }
 
 h2 {
@@ -45,4 +46,15 @@ h2 {
   justify-content: flex-start;
   align-items: center;
   flex-wrap: wrap;
+}
+
+.store-item {
+  width: 300px;
+  padding: 1rem;
+}
+
+.store-item img {
+  width: 100%;
+  display: block;
+  box-shadow: 7px 7px 20px rgba(0, 0, 0, 0.2);
 }
